@@ -1,0 +1,15 @@
+from utils import (
+    employees,
+    get_employee_by_id,
+    get_active_employees,
+    get_fired_employees,
+    get_department_employees,
+    get_hired_after,
+    get_older_than,
+    get_salary_by_year,
+    get_projects_by_year,
+    get_average_salary,
+    get_max_salary,
+    get_total_salary,
+    get_total_projects,    
+)
