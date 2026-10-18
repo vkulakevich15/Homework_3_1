@@ -302,3 +302,5 @@ def get_total_projects(employee):    # Вернуть суммарное кол�
 
 
 # Аналитика по компании
+def get_company_analytics(employees):
+    pass
